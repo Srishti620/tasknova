@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": "1774164014586",
+      "email": "garg06743@gmail.com",
+      "passwordHash": "$2a$10$zCIxAJLbc0OD9aY/P8Qoa.lpH3.HulBjQlOAjHxShWS.Z7hZSYMlK",
+      "createdAt": "2026-03-22T07:20:14.586Z"
+    },
+    {
+      "id": "1775205798508",
+      "email": "samiksha@123",
+      "passwordHash": "$2a$10$XxVu4fBCjZC.M3IqS153TeAo73WMZqRLxr4OhOLI7fzcEhctlK3nO",
+      "createdAt": "2026-04-03T08:43:18.508Z"
+    },
+    {
+      "id": "1775207285246",
+      "email": "srishti123@gmail.com",
+      "passwordHash": "$2a$10$.VfSLlVL/6rBV5juAoe9cOV4OJzrGl/leu/OwB6LziQ2kG5DI8V62",
+      "createdAt": "2026-04-03T09:08:05.246Z"
+    },
+    {
+      "id": "1775207355855",
+      "email": "user@gmail.com",
+      "passwordHash": "$2a$10$ByPUdWIH.nXpjGUyWkErgebdZdp6MznY3MqDWUnN8Ib3lWQ2zqUyC",
+      "createdAt": "2026-04-03T09:09:15.856Z"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "1774164225656",
+      "userId": "1774164014586",
+      "title": "assignment",
+      "subject": "Programming",
+      "dueDate": "2026-03-23",
+      "priority": "high",
+      "status": "done",
+      "completedAt": "2026-03-22T09:14:53.020Z",
+      "createdAt": "2026-03-22T07:23:45.656Z"
+    },
+    {
+      "id": "1774164264491",
+      "userId": "1774164014586",
+      "title": "mid exam",
+      "subject": "English",
+      "dueDate": "2026-03-24",
+      "priority": "medium",
+      "status": "todo",
+      "completedAt": "2026-03-22T07:27:52.497Z",
+      "createdAt": "2026-03-22T07:24:24.491Z"
+    }
+  ],
+  "subjects": [
+    "Math",
+    "Science",
+    "English",
+    "History",
+    "Programming"
+  ]
+}
