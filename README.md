@@ -76,12 +76,8 @@ Students often struggle to manage multiple academic tasks using traditional meth
 
 ---
 
-## 👩‍💻 Authors
+## 👩‍💻 Author
 - Srishti Sehgal  
-- Tanya Khandelwal  
-- Vartika Agarwal  
-- Sonal Agarwal  
-- Shikha Sharma  
 
 ---
 
